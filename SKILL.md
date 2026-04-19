@@ -1,5 +1,6 @@
 ---
 name: promptlatro
+domain: general
 description: >
   A roguelike deckbuilder that teaches prompt engineering through poker mechanics.
   Players build hands from 4 suits (Context/Instruction/Example/Persona), stack
