@@ -6,6 +6,18 @@ description: >
   Players build hands from 4 suits (Context/Instruction/Example/Persona), stack
   multipliers with Jokers (real prompt patterns), and beat Boss Blinds (AI failure
   modes). Inspired by Balatro. Learn prompt engineering by playing, not studying.
+  NOT for: serious prompt engineering work (this is a game).
+  NOT for: skill creation (use skill-builder).
+  NOT for: daily productivity (it's entertainment).
+capabilities:
+  reads:
+    - "promptlatro/data/game-state.json"
+  writes:
+    - "promptlatro/data/*"
+  calls: []
+  cannot:
+    - "modify other skills"
+    - "claim itself as productivity tool (it's a game)"
 ---
 
 # PROMPTLATRO — Prompt Engineering Roguelike
