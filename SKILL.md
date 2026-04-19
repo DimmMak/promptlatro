@@ -18,6 +18,12 @@ capabilities:
   cannot:
     - "modify other skills"
     - "claim itself as productivity tool (it's a game)"
+unix_contract:
+  data_format: "json"
+  schema_version: "0.1.0"
+  stdin_support: false
+  stdout_format: "text"
+  composable_with: []
 ---
 
 # PROMPTLATRO — Prompt Engineering Roguelike
