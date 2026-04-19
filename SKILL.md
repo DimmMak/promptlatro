@@ -1,5 +1,6 @@
 ---
 name: promptlatro
+version: 0.2.0
 domain: general
 description: >
   A roguelike deckbuilder that teaches prompt engineering through poker mechanics.
