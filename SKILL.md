@@ -8,7 +8,7 @@ description: >
   multipliers with Jokers (real prompt patterns), and beat Boss Blinds (AI failure
   modes). Inspired by Balatro. Learn prompt engineering by playing, not studying.
   NOT for: serious prompt engineering work (this is a game).
-  NOT for: skill creation (use skill-builder).
+  NOT for: skill creation (use snes-builder).
   NOT for: daily productivity (it's entertainment).
 capabilities:
   reads:
